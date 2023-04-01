@@ -10,8 +10,6 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 
 ---
 
-#### Frontend
-
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -19,6 +17,8 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
+
+#### Frontend
 
 <!-- Frontend:start -->
 <!-- prettier-ignore-start -->
