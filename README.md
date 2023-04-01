@@ -1,15 +1,22 @@
 ### Hi ! I'm T-miracle 👋
 
-I'm a full-stack developer with a front-end focus
+I'm a full-stack developer with a front-end focus.
 
-## My Skill Set
+---
 
-<table>
-<tr style="background-color: #95a5a6; color: white;">
-<td>Frontend</td>
-</tr>
-<tr>
-<td>
+#### Frontend
+
+<!-- github-stats:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=T-miracle&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- github-stats:end -->
+
+<!-- Frontend:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <img src="./svg/HTML5.svg" alt="HTML"/>
 <img src="./svg/css.svg" alt="CSS"/>
 <img src="./svg/javaScript.svg" alt="JavaScript"/>
@@ -22,29 +29,31 @@ I'm a full-stack developer with a front-end focus
 <img src="./svg/scss.svg" alt="Sass"/>
 <img src="./svg/Webpack.svg" alt="Webpack"/>
 <img src="./svg/vite.svg" alt="Vite"/>
-</td>
-</tr>
-<tr style="background-color: #95a5a6; color: white;">
-<td>Backend</td>
-</tr>
-<tr>
-<td>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- Frontend:end -->
+
+#### Backend
+
+<!-- Backend:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <img src="./svg/java.svg" alt="Java"/>
 <img src="./svg/SPRINGBOOT.svg" alt="SpringBoot"/>
 <img src="./svg/mysql.svg" alt="MySQL"/>
 <img src="./svg/oracle.svg" alt="Oracle"/>
 <img src="./svg/sqlserver.svg" alt="SQL Server"/>
-</td>
-</tr>
-<tr style="background-color: #95a5a6; color: white;">
-<td>DevOps</td>
-</tr>
-<tr>
-<td>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- Backend:end -->
+
+#### DevOps
+
+<!-- DevOps:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <img src="./svg/linux.svg" alt="Linux"/>
 <img src="./svg/nginx.svg" alt="Nginx"/>
-</td>
-</tr>
-</table>
-
-![](https://github-readme-stats.vercel.app/api?username=T-miracle&show_icons=true&count_private=true&hide_border=true)
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- DevOps:end -->
