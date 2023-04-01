@@ -4,7 +4,7 @@ I'm a full-stack developer with a front-end focus.
 
 ---
 
-#### Frontend
+### Frontend
 
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
@@ -33,7 +33,7 @@ I'm a full-stack developer with a front-end focus.
 <!-- prettier-ignore-end -->
 <!-- Frontend:end -->
 
-#### Backend
+### Backend
 
 <!-- Backend:start -->
 <!-- prettier-ignore-start -->
@@ -47,7 +47,7 @@ I'm a full-stack developer with a front-end focus.
 <!-- prettier-ignore-end -->
 <!-- Backend:end -->
 
-#### DevOps
+### DevOps
 
 <!-- DevOps:start -->
 <!-- prettier-ignore-start -->
@@ -58,7 +58,7 @@ I'm a full-stack developer with a front-end focus.
 <!-- prettier-ignore-end -->
 <!-- DevOps:end -->
 
-#### Interested
+### Interested
 
 <!-- Interested:start -->
 <!-- prettier-ignore-start -->
