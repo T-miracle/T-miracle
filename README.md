@@ -2,7 +2,7 @@
 
 I am a full-stack developer with a focus on front-end development. 
 
-I am very interested in custom text editors for the web and my dream is to have my own interactive writing website where I can collaborate with like-minded individuals to create content of mutual interest. 
+I am very interested in custom text editors for Web and my dream is to have my own interactive writing website where I can collaborate with like-minded individuals to create content of mutual interest. 
 This would prevent me from bearing the burden of maintaining documents alone. 
 
 I am currently working towards making this a reality...
