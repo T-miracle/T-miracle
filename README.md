@@ -14,7 +14,7 @@ I am currently working towards making this a reality...
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-miracle&theme=vue"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-miracle&theme=vue"/>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
@@ -85,4 +85,4 @@ I am currently working towards making this a reality...
 
 ---
 
-<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=T-miracle&count_private=true&show_icons=true&theme=vue"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=T-miracle&count_private=true&show_icons=true&theme=vue"/>
