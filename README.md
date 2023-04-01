@@ -10,6 +10,8 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 
 ---
 
+### My skills set
+
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
