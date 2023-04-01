@@ -9,7 +9,7 @@ I am currently working towards making this a reality...
 
 ---
 
-### Frontend
+#### Frontend
 
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
@@ -38,7 +38,7 @@ I am currently working towards making this a reality...
 <!-- prettier-ignore-end -->
 <!-- Frontend:end -->
 
-### Backend
+#### Backend
 
 <!-- Backend:start -->
 <!-- prettier-ignore-start -->
@@ -52,7 +52,7 @@ I am currently working towards making this a reality...
 <!-- prettier-ignore-end -->
 <!-- Backend:end -->
 
-### DevOps
+#### DevOps
 
 <!-- DevOps:start -->
 <!-- prettier-ignore-start -->
@@ -63,7 +63,7 @@ I am currently working towards making this a reality...
 <!-- prettier-ignore-end -->
 <!-- DevOps:end -->
 
-### Interested
+#### Interested
 
 <!-- Interested:start -->
 <!-- prettier-ignore-start -->
