@@ -1,4 +1,4 @@
-### Hi ! I'm T-miracle 👋
+### Hi ! I'm Tmiracle 👋
 
 I am a full-stack developer with a focus on front-end development. 
 
@@ -14,7 +14,7 @@ I am currently working towards making this a reality...
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=T-miracle&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=T-miracle&count_private=true&show_icons=true&theme=merko"/>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
@@ -75,9 +75,14 @@ I am currently working towards making this a reality...
 <code><img height="32" src="./svg/python.svg" alt="Python"/></code>
 <code><img height="32" src="./svg/golang.svg" alt="Golang"/></code>
 <code><img height="32" src="./svg/cplusplus.svg" alt="C++"/></code>
-<code><img height="32" src="./svg/photoshop.svg" alt="PS"/></code>
-<code><img height="32" src="./svg/Pr.svg" alt="PR"/></code>
-<code><img height="32" src="./svg/Ae.svg" alt="AE"/></code>
+<code><img height="32" src="./svg/PS.svg" alt="PS"/></code>
+<code><img height="32" src="./svg/PR.svg" alt="PR"/></code>
+<code><img height="32" src="./svg/AE.svg" alt="AE"/></code>
+<code><img height="32" src="./svg/AI.svg" alt="AI"/></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- Interested:end -->
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=T-miracle)
