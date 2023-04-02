@@ -12,13 +12,13 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 
 ### My skills set
 
-<!-- github-stats:start -->
+<!-- github-langs:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-miracle&theme=vue"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-miracle&theme=vue"/> -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-<!-- github-stats:end -->
+<!-- github-langs:end -->
 
 #### Frontend
 
