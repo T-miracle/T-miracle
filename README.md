@@ -67,6 +67,8 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <!-- prettier-ignore-end -->
 <!-- DevOps:end -->
 
+---
+
 ### Interested
 
 <!-- Interested:start -->
