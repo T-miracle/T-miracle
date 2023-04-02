@@ -77,6 +77,7 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <code><img height="32" src="./svg/kotlin.svg" alt="Kotlin"/></code>
 <code><img height="32" src="./svg/python.svg" alt="Python"/></code>
 <code><img height="32" src="./svg/golang.svg" alt="Golang"/></code>
+<code><img height="32" src="./svg/rust.svg" alt="Rust"/></code>
 <code><img height="32" src="./svg/cplusplus.svg" alt="C++"/></code>
 <code><img height="32" src="./svg/PS.svg" alt="PS"/></code>
 <code><img height="32" src="./svg/PR.svg" alt="PR"/></code>
