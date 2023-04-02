@@ -35,6 +35,7 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <code><img height="32" src="./svg/echarts.svg" alt="Echarts"/></code>
 <code><img height="32" src="./svg/Jquery.svg" alt="Jquery"/></code>
 <code><img height="32" src="./svg/scss.svg" alt="Sass"/></code>
+<code><img height="32" src="./svg/NPM.svg" alt="NPM"/></code>
 <code><img height="32" src="./svg/Webpack.svg" alt="Webpack"/></code>
 <code><img height="32" src="./svg/vite.svg" alt="Vite"/></code>
 <!-- markdownlint-restore -->
