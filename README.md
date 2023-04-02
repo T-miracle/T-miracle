@@ -6,7 +6,7 @@ I am very interested in Web rich text editors, and my dream is to have my own in
 
 I am currently working towards making this a reality...
 
-This is [my blog](https://blog.namichong.com/) 👈👈👈
+This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> 👈👈👈
 
 ---
 
