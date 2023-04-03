@@ -20,7 +20,7 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <!-- prettier-ignore-end -->
 <!-- github-langs:end -->
 
-#### Frontend
+#### Frontend and Frameworks
 
 <!-- Frontend:start -->
 <!-- prettier-ignore-start -->
@@ -42,7 +42,7 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <!-- prettier-ignore-end -->
 <!-- Frontend:end -->
 
-#### Backend
+#### Backendã€Databases and Frameworks
 
 <!-- Backend:start -->
 <!-- prettier-ignore-start -->
@@ -56,7 +56,7 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <!-- prettier-ignore-end -->
 <!-- Backend:end -->
 
-#### DevOps
+#### DevOps and Tools
 
 <!-- DevOps:start -->
 <!-- prettier-ignore-start -->
@@ -69,7 +69,7 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 
 ---
 
-### Interested
+### Interested and Learning
 
 <!-- Interested:start -->
 <!-- prettier-ignore-start -->
