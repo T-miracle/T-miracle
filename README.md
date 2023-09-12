@@ -90,6 +90,3 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <!-- prettier-ignore-end -->
 <!-- Interested:end -->
 
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=T-miracle&count_private=true&show_icons=true&theme=vue"/>
