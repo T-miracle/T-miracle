@@ -25,19 +25,19 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <!-- Frontend:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="32" src="./svg/HTML5.svg" alt="HTML"/></code>
-<code><img height="32" src="./svg/css.svg" alt="CSS"/></code>
-<code><img height="32" src="./svg/javaScript.svg" alt="JavaScript"/></code>
-<code><img height="32" src="./svg/typescript.svg" alt="TypeScript"/></code>
-<code><img height="32" src="./svg/Vue.svg" alt="Vue"/></code>
-<code><img height="32" src="./svg/uni-app.svg" alt="uni-app"/></code>
-<code><img height="32" src="./svg/微信小程序.svg" alt="微信小程序"/></code>
-<code><img height="32" src="./svg/echarts.svg" alt="Echarts"/></code>
-<code><img height="32" src="./svg/Jquery.svg" alt="Jquery"/></code>
-<code><img height="32" src="./svg/scss.svg" alt="Sass"/></code>
-<code><img height="32" src="./svg/NPM.svg" alt="NPM"/></code>
-<code><img height="32" src="./svg/Webpack.svg" alt="Webpack"/></code>
-<code><img height="32" src="./svg/vite.svg" alt="Vite"/></code>
+<code><img height="32" src="./svg/HTML5.svg" alt="HTML" title="HTML"/></code>
+<code><img height="32" src="./svg/css.svg" alt="CSS" title="CSS"/></code>
+<code><img height="32" src="./svg/javaScript.svg" alt="JavaScript" title="JavaScript"/></code>
+<code><img height="32" src="./svg/typescript.svg" alt="TypeScript" title="TypeScript"/></code>
+<code><img height="32" src="./svg/Vue.svg" alt="Vue" title="Vue"/></code>
+<code><img height="32" src="./svg/uni-app.svg" alt="uni-app" title="uni-app"/></code>
+<code><img height="32" src="./svg/微信小程序.svg" alt="微信小程序" title="微信小程序"/></code>
+<code><img height="32" src="./svg/echarts.svg" alt="Echarts" title="Echarts"/></code>
+<code><img height="32" src="./svg/Jquery.svg" alt="Jquery" title="Jquery"/></code>
+<code><img height="32" src="./svg/scss.svg" alt="Sass" title="Sass"/></code>
+<code><img height="32" src="./svg/NPM.svg" alt="NPM" title="NPM"/></code>
+<code><img height="32" src="./svg/Webpack.svg" alt="Webpack" title="Webpack"/></code>
+<code><img height="32" src="./svg/vite.svg" alt="Vite" title="Vite"/></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- Frontend:end -->
@@ -47,11 +47,11 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <!-- Backend:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="32" src="./svg/java.svg" alt="Java"/></code>
-<code><img height="32" src="./svg/SPRINGBOOT.svg" alt="SpringBoot"/></code>
-<code><img height="32" src="./svg/mysql.svg" alt="MySQL"/></code>
-<code><img height="32" src="./svg/oracle.svg" alt="Oracle"/></code>
-<code><img height="32" src="./svg/sqlserver.svg" alt="SQL Server"/></code>
+<code><img height="32" src="./svg/java.svg" alt="Java" title="Java"/></code>
+<code><img height="32" src="./svg/SPRINGBOOT.svg" alt="SpringBoot" title="SpringBoot"/></code>
+<code><img height="32" src="./svg/mysql.svg" alt="MySQL" title="MySQL"/></code>
+<code><img height="32" src="./svg/oracle.svg" alt="Oracle" title="Oracle"/></code>
+<code><img height="32" src="./svg/sqlserver.svg" alt="SQL Server" title="SQL Server"/></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- Backend:end -->
@@ -61,8 +61,9 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <!-- DevOps:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="32" src="./svg/linux.svg" alt="Linux"/></code>
-<code><img height="32" src="./svg/nginx.svg" alt="Nginx"/></code>
+<code><img height="32" src="./svg/linux.svg" alt="Linux" title="Linux"/></code>
+<code><img height="32" src="./svg/nginx.svg" alt="Nginx" title="Nginx"/></code>
+<code><img height="32" src="./svg/Docker.svg" alt="Docker" title="Docker"/></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- DevOps:end -->
@@ -72,18 +73,18 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <!-- Interested:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="32" src="./svg/react.svg" alt="React"/></code>
-<code><img height="32" src="./svg/electron.svg" alt="Electron"/></code>
-<code><img height="32" src="./svg/flutter.svg" alt="Flutter"/></code>
-<code><img height="32" src="./svg/kotlin.svg" alt="Kotlin"/></code>
-<code><img height="32" src="./svg/python.svg" alt="Python"/></code>
-<code><img height="32" src="./svg/golang.svg" alt="Golang"/></code>
-<code><img height="32" src="./svg/rust.svg" alt="Rust"/></code>
-<code><img height="32" src="./svg/cplusplus.svg" alt="C++"/></code>
-<code><img height="32" src="./svg/PS.svg" alt="PS"/></code>
-<code><img height="32" src="./svg/PR.svg" alt="PR"/></code>
-<code><img height="32" src="./svg/AE.svg" alt="AE"/></code>
-<code><img height="32" src="./svg/AI.svg" alt="AI"/></code>
+<code><img height="32" src="./svg/react.svg" alt="React" title="React"/></code>
+<code><img height="32" src="./svg/electron.svg" alt="Electron" title="Electron"/></code>
+<code><img height="32" src="./svg/flutter.svg" alt="Flutter" title="Flutter"/></code>
+<code><img height="32" src="./svg/kotlin.svg" alt="Kotlin" title="Kotlin"/></code>
+<code><img height="32" src="./svg/python.svg" alt="Python" title="Python"/></code>
+<code><img height="32" src="./svg/golang.svg" alt="Golang" title="Golang"/></code>
+<code><img height="32" src="./svg/rust.svg" alt="Rust" title="Rust"/></code>
+<code><img height="32" src="./svg/cplusplus.svg" alt="C++" title="C++"/></code>
+<code><img height="32" src="./svg/PS.svg" alt="PS" title="PS"/></code>
+<code><img height="32" src="./svg/PR.svg" alt="PR" title="PR"/></code>
+<code><img height="32" src="./svg/AE.svg" alt="AE" title="AE"/></code>
+<code><img height="32" src="./svg/AI.svg" alt="AI" title="AI"/></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- Interested:end -->
