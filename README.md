@@ -6,21 +6,21 @@ I am very interested in Web rich text editors, and my dream is to have my own in
 
 I am currently working towards making this a reality...
 
-This is [my blog](https://blog.namichong.com/) 👈👈👈
+This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> 👈👈👈
 
 ---
 
 ### My skills set
 
-<!-- github-stats:start -->
+<!-- github-langs:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-miracle&theme=vue"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-miracle&theme=vue"/> -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-<!-- github-stats:end -->
+<!-- github-langs:end -->
 
-#### Frontend
+#### Frontend and Frameworks
 
 <!-- Frontend:start -->
 <!-- prettier-ignore-start -->
@@ -42,7 +42,7 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <!-- prettier-ignore-end -->
 <!-- Frontend:end -->
 
-#### Backend
+#### Backend、Databases and Frameworks
 
 <!-- Backend:start -->
 <!-- prettier-ignore-start -->
@@ -56,7 +56,7 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <!-- prettier-ignore-end -->
 <!-- Backend:end -->
 
-#### DevOps
+#### DevOps and Tools
 
 <!-- DevOps:start -->
 <!-- prettier-ignore-start -->
@@ -68,7 +68,9 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <!-- prettier-ignore-end -->
 <!-- DevOps:end -->
 
-#### Interested
+---
+
+### Interested and Learning
 
 <!-- Interested:start -->
 <!-- prettier-ignore-start -->
@@ -89,6 +91,3 @@ This is [my blog](https://blog.namichong.com/) 👈👈👈
 <!-- prettier-ignore-end -->
 <!-- Interested:end -->
 
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=T-miracle&count_private=true&show_icons=true&theme=vue"/>
