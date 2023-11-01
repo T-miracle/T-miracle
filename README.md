@@ -32,12 +32,14 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> 👈�
 <code><img height="36" src="./svg/Vue.svg" alt="Vue" title="Vue"/></code>
 <code><img height="36" src="./svg/uni-app.svg" alt="uni-app" title="uni-app"/></code>
 <code><img height="36" src="./svg/微信小程序.svg" alt="微信小程序" title="微信小程序"/></code>
-<code><img height="36" src="./svg/echarts.svg" alt="Echarts" title="Echarts"/></code>
-<code><img height="36" src="./svg/Jquery.svg" alt="Jquery" title="Jquery"/></code>
+<code><img height="36" src="./svg/unocss.svg" alt="UnoCSS" title="UnoCSS"/></code>
+<code><img height="36" src="./svg/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 <code><img height="36" src="./svg/scss.svg" alt="Sass" title="Sass"/></code>
 <code><img height="36" src="./svg/NPM.svg" alt="NPM" title="NPM"/></code>
 <code><img height="36" src="./svg/Webpack.svg" alt="Webpack" title="Webpack"/></code>
 <code><img height="36" src="./svg/vite.svg" alt="Vite" title="Vite"/></code>
+<code><img height="36" src="./svg/echarts.svg" alt="Echarts" title="Echarts"/></code>
+<code><img height="36" src="./svg/Jquery.svg" alt="Jquery" title="Jquery"/></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- Frontend:end -->
