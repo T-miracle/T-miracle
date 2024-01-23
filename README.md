@@ -70,7 +70,7 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <!-- prettier-ignore-end -->
 <!-- DevOps:end -->
 
-### Learning
+#### Learning
 
 <!-- Learning:start -->
 <!-- prettier-ignore-start -->
@@ -82,7 +82,7 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 
 ---
 
-### Interested and Learning
+### Interested
 
 <!-- Interested:start -->
 <!-- prettier-ignore-start -->
