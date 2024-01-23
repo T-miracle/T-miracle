@@ -70,6 +70,16 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <!-- prettier-ignore-end -->
 <!-- DevOps:end -->
 
+### Learning
+
+<!-- Learning:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><img height="36" src="./img/Kotlin.png" alt="Kotlin" title="Kotlin"/></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- Learning:end -->
+
 ---
 
 ### Interested and Learning
@@ -80,7 +90,6 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <code><img height="36" src="./svg/react.svg" alt="React" title="React"/></code>
 <code><img height="36" src="./svg/electron.svg" alt="Electron" title="Electron"/></code>
 <code><img height="36" src="./svg/flutter.svg" alt="Flutter" title="Flutter"/></code>
-<code><img height="36" src="./img/Kotlin.png" alt="Kotlin" title="Kotlin"/></code>
 <code><img height="36" src="./svg/python.svg" alt="Python" title="Python"/></code>
 <code><img height="36" src="./svg/golang.svg" alt="Golang" title="Golang"/></code>
 <code><img height="36" src="./svg/rust.svg" alt="Rust" title="Rust"/></code>
