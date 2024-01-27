@@ -76,6 +76,8 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><img height="36" src="./img/Kotlin.png" alt="Kotlin" title="Kotlin"/></code>
+<code><img height="36" src="./svg/nodejs.svg" alt="NodeJS" title="NodeJS"/></code>
+<code><img height="36" src="./svg/asp-net.svg" alt="ASP.NET" title="ASP.NET"/></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- Learning:end -->
