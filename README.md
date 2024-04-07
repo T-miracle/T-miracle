@@ -68,16 +68,16 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <code><img height="36" src="./svg/Docker.svg" alt="Docker" title="Docker"/></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-<!-- DevOps:end -->
+<!-- DevOps:end --> 
 
 #### Learning
 
 <!-- Learning:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<code><img height="36" src="./svg/react.svg" alt="React" title="React"/></code>
 <code><img height="36" src="./img/Kotlin.png" alt="Kotlin" title="Kotlin"/></code>
 <code><img height="36" src="./svg/nodejs.svg" alt="NodeJS" title="NodeJS"/></code>
-<code><img height="36" src="./svg/asp-net.svg" alt="ASP.NET" title="ASP.NET"/></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- Learning:end -->
@@ -89,13 +89,13 @@ This is <a href="https://blog.namichong.com/" target="_blank">my blog</a> ğŸ‘ˆğŸ
 <!-- Interested:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="36" src="./svg/react.svg" alt="React" title="React"/></code>
 <code><img height="36" src="./svg/electron.svg" alt="Electron" title="Electron"/></code>
 <code><img height="36" src="./svg/flutter.svg" alt="Flutter" title="Flutter"/></code>
 <code><img height="36" src="./svg/python.svg" alt="Python" title="Python"/></code>
 <code><img height="36" src="./svg/golang.svg" alt="Golang" title="Golang"/></code>
 <code><img height="36" src="./svg/rust.svg" alt="Rust" title="Rust"/></code>
 <code><img height="36" src="./svg/cplusplus.svg" alt="C++" title="C++"/></code>
+<code><img height="36" src="./svg/asp-net.svg" alt="ASP.NET" title="ASP.NET"/></code>
 <code><img height="36" src="./svg/PS.svg" alt="PS" title="PS"/></code>
 <code><img height="36" src="./svg/PR.svg" alt="PR" title="PR"/></code>
 <code><img height="36" src="./svg/AE.svg" alt="AE" title="AE"/></code>
